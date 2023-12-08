@@ -6,7 +6,7 @@
         }
     },
     "require": {
-        "laravel/framework": "^8.0.0"
+        "laravel/framework": "^9.0.0"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",
